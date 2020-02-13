@@ -1,0 +1,23 @@
+{
+  "name": "React-Tic-Toc-Toe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "format": "prettier --write \"**/*.+(js|json|css|md|mdx|html)\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gop50k/React-Tic-Toc-Toe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gop50k/React-Tic-Toc-Toe/issues"
+  },
+  "homepage": "https://github.com/gop50k/React-Tic-Toc-Toe#readme"
+}
